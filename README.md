@@ -37,7 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/k-m-amaz-uddin-shaon-a180a822b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-k-m-amaz-uddin-shaon-a180a822bblue?style=flat-square&logo=linkedin"></a>
-<a href=https://www.instagram.com/k_m_amaz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-k_m_amaz__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kmamaz1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kmamaz1997@gmail.co-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/k-m-amaz-uddin-shaon-a180a822b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-k-m-amaz-uddin-shaon-a180a822b-blue?style=flat-square&logo=linkedin"></a>
+<a href=https://www.instagram.com/k_m_amaz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-k_m_amaz_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:kmamaz1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kmamaz1997@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
