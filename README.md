@@ -34,13 +34,6 @@
 
 <br/>
 
-<a href="https://github.com/amaz11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaz11&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaz11theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
