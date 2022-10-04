@@ -31,7 +31,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Animate](https://img.shields.io/badge/-Animate-333333?style=flat&logo=adobe-animate)
+  ![An](https://img.shields.io/badge/-Animate-333333?style=flat&logo=adobe-animate)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 <br/>
 
