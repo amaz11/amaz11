@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and engineering at Bangladesh Army Interational University of Science and Technology.
-- 💼 &nbsp; 
+- 💼 &nbsp; Selopia
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Animation and Drawing as hobbies/side hustles.
 
