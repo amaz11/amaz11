@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
 <img weigth="150px" height="180px" style="border-radius: 50%"  src="https://avatars.githubusercontent.com/u/73777861?v=4">
-
+</div>
 <h2> Hey there! I'm K M Amaz Uddin Shaon</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
